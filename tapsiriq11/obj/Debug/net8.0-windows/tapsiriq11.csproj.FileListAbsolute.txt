@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Documents\tapsiriq11\tapsiriq11\bin\Debug\net8.0-windows\tapsiriq11.exe
+C:\Users\LENOVO\Documents\tapsiriq11\tapsiriq11\bin\Debug\net8.0-windows\tapsiriq11.deps.json
+C:\Users\LENOVO\Documents\tapsiriq11\tapsiriq11\bin\Debug\net8.0-windows\tapsiriq11.runtimeconfig.json
+C:\Users\LENOVO\Documents\tapsiriq11\tapsiriq11\bin\Debug\net8.0-windows\tapsiriq11.dll
+C:\Users\LENOVO\Documents\tapsiriq11\tapsiriq11\bin\Debug\net8.0-windows\tapsiriq11.pdb
+C:\Users\LENOVO\Documents\tapsiriq11\tapsiriq11\obj\Debug\net8.0-windows\tapsiriq11.Form1.resources
+C:\Users\LENOVO\Documents\tapsiriq11\tapsiriq11\obj\Debug\net8.0-windows\tapsiriq11.Properties.Resources.resources
+C:\Users\LENOVO\Documents\tapsiriq11\tapsiriq11\obj\Debug\net8.0-windows\tapsiriq11.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\tapsiriq11\tapsiriq11\obj\Debug\net8.0-windows\tapsiriq11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\tapsiriq11\tapsiriq11\obj\Debug\net8.0-windows\tapsiriq11.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\tapsiriq11\tapsiriq11\obj\Debug\net8.0-windows\tapsiriq11.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\tapsiriq11\tapsiriq11\obj\Debug\net8.0-windows\tapsiriq11.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\tapsiriq11\tapsiriq11\obj\Debug\net8.0-windows\tapsiriq11.dll
+C:\Users\LENOVO\Documents\tapsiriq11\tapsiriq11\obj\Debug\net8.0-windows\refint\tapsiriq11.dll
+C:\Users\LENOVO\Documents\tapsiriq11\tapsiriq11\obj\Debug\net8.0-windows\tapsiriq11.pdb
+C:\Users\LENOVO\Documents\tapsiriq11\tapsiriq11\obj\Debug\net8.0-windows\tapsiriq11.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\tapsiriq11\tapsiriq11\obj\Debug\net8.0-windows\ref\tapsiriq11.dll
