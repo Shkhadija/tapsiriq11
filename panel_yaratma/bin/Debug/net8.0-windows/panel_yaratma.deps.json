@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "panel_yaratma/1.0.0": {
+        "runtime": {
+          "panel_yaratma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "panel_yaratma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

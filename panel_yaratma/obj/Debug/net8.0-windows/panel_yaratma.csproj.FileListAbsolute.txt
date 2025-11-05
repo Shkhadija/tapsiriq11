@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Documents\panel_yaratma\panel_yaratma\obj\Debug\net8.0-windows\panel_yaratma.Form1.resources
+C:\Users\LENOVO\Documents\panel_yaratma\panel_yaratma\obj\Debug\net8.0-windows\panel_yaratma.Properties.Resources.resources
+C:\Users\LENOVO\Documents\panel_yaratma\panel_yaratma\obj\Debug\net8.0-windows\panel_yaratma.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\panel_yaratma\panel_yaratma\obj\Debug\net8.0-windows\panel_yaratma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\panel_yaratma\panel_yaratma\obj\Debug\net8.0-windows\panel_yaratma.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\panel_yaratma\panel_yaratma\obj\Debug\net8.0-windows\panel_yaratma.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\panel_yaratma\panel_yaratma\obj\Debug\net8.0-windows\panel_yaratma.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\panel_yaratma\panel_yaratma\bin\Debug\net8.0-windows\panel_yaratma.exe
+C:\Users\LENOVO\Documents\panel_yaratma\panel_yaratma\bin\Debug\net8.0-windows\panel_yaratma.deps.json
+C:\Users\LENOVO\Documents\panel_yaratma\panel_yaratma\bin\Debug\net8.0-windows\panel_yaratma.runtimeconfig.json
+C:\Users\LENOVO\Documents\panel_yaratma\panel_yaratma\bin\Debug\net8.0-windows\panel_yaratma.dll
+C:\Users\LENOVO\Documents\panel_yaratma\panel_yaratma\bin\Debug\net8.0-windows\panel_yaratma.pdb
+C:\Users\LENOVO\Documents\panel_yaratma\panel_yaratma\obj\Debug\net8.0-windows\panel_yaratma.dll
+C:\Users\LENOVO\Documents\panel_yaratma\panel_yaratma\obj\Debug\net8.0-windows\refint\panel_yaratma.dll
+C:\Users\LENOVO\Documents\panel_yaratma\panel_yaratma\obj\Debug\net8.0-windows\panel_yaratma.pdb
+C:\Users\LENOVO\Documents\panel_yaratma\panel_yaratma\obj\Debug\net8.0-windows\panel_yaratma.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\panel_yaratma\panel_yaratma\obj\Debug\net8.0-windows\ref\panel_yaratma.dll
